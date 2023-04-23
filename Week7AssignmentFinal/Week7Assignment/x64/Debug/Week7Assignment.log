@@ -1,0 +1,416 @@
+﻿  F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\assets\shaders\basicCyl.frag
+  F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\assets\shaders\basicLightNew.vert
+  F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\assets\shaders\basicLightNewMulti.frag
+  F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\assets\shaders\basicUnlit.frag
+  F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\assets\shaders\basicUnlit.vert
+  F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\assets\textures\aFace.png
+  F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\assets\textures\bricks2.jpg
+  F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\assets\textures\brickTest.jpg
+  F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\assets\textures\cement-floor.jpg
+  F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\assets\textures\concreteTexture.png
+  F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\assets\textures\container.jpg
+  F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\assets\textures\container2_specular.png
+  F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\assets\textures\container2_specular_colored.png
+  F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\assets\textures\cracks.jpg
+  F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\assets\textures\cracks2.jpg
+  F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\assets\textures\matrix.jpg
+  F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\assets\textures\matrix2.jpg
+  F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\assets\textures\metal.png
+  18 File(s) copied
+  glad.c
+  app.cpp
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\include\types.h(109,22): warning C4018: '<=': signed/unsigned mismatch
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\include\types.h(235,22): warning C4018: '<': signed/unsigned mismatch
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\include\types.h(249,1): warning C4267: 'initializing': conversion from 'size_t' to 'uint32_t', possible loss of data
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\include\types.h(251,1): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=uint32_t
+          ]
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\include\types.h(256,1): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=uint32_t
+          ]
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\include\types.h(257,1): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=uint32_t
+          ]
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\include\types.h(264,1): warning C4267: 'initializing': conversion from 'size_t' to 'uint32_t', possible loss of data
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\include\types.h(266,1): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=uint32_t
+          ]
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\include\types.h(271,1): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=uint32_t
+          ]
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\include\types.h(273,1): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=uint32_t
+          ]
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\src\app.cpp(32,27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  camera.cpp
+  cube.cpp
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\include\types.h(109,22): warning C4018: '<=': signed/unsigned mismatch
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\include\types.h(235,22): warning C4018: '<': signed/unsigned mismatch
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\include\types.h(249,1): warning C4267: 'initializing': conversion from 'size_t' to 'uint32_t', possible loss of data
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\include\types.h(251,1): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=uint32_t
+          ]
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\include\types.h(256,1): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=uint32_t
+          ]
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\include\types.h(257,1): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=uint32_t
+          ]
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\include\types.h(264,1): warning C4267: 'initializing': conversion from 'size_t' to 'uint32_t', possible loss of data
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\include\types.h(266,1): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=uint32_t
+          ]
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\include\types.h(271,1): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=uint32_t
+          ]
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\include\types.h(273,1): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=uint32_t
+          ]
+  Cylinder.cpp
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\include\types.h(109,22): warning C4018: '<=': signed/unsigned mismatch
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\include\types.h(235,22): warning C4018: '<': signed/unsigned mismatch
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\include\types.h(249,1): warning C4267: 'initializing': conversion from 'size_t' to 'uint32_t', possible loss of data
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\include\types.h(251,1): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=uint32_t
+          ]
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\include\types.h(256,1): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=uint32_t
+          ]
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\include\types.h(257,1): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=uint32_t
+          ]
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\include\types.h(264,1): warning C4267: 'initializing': conversion from 'size_t' to 'uint32_t', possible loss of data
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\include\types.h(266,1): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=uint32_t
+          ]
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\include\types.h(271,1): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=uint32_t
+          ]
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\include\types.h(273,1): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=uint32_t
+          ]
+  light.cpp
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\include\types.h(109,22): warning C4018: '<=': signed/unsigned mismatch
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\include\types.h(235,22): warning C4018: '<': signed/unsigned mismatch
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\include\types.h(249,1): warning C4267: 'initializing': conversion from 'size_t' to 'uint32_t', possible loss of data
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\include\types.h(251,1): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=uint32_t
+          ]
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\include\types.h(256,1): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=uint32_t
+          ]
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\include\types.h(257,1): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=uint32_t
+          ]
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\include\types.h(264,1): warning C4267: 'initializing': conversion from 'size_t' to 'uint32_t', possible loss of data
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\include\types.h(266,1): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=uint32_t
+          ]
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\include\types.h(271,1): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=uint32_t
+          ]
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\include\types.h(273,1): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=uint32_t
+          ]
+  main.cpp
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\include\types.h(109,22): warning C4018: '<=': signed/unsigned mismatch
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\include\types.h(235,22): warning C4018: '<': signed/unsigned mismatch
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\include\types.h(249,1): warning C4267: 'initializing': conversion from 'size_t' to 'uint32_t', possible loss of data
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\include\types.h(251,1): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=uint32_t
+          ]
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\include\types.h(256,1): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=uint32_t
+          ]
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\include\types.h(257,1): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=uint32_t
+          ]
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\include\types.h(264,1): warning C4267: 'initializing': conversion from 'size_t' to 'uint32_t', possible loss of data
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\include\types.h(266,1): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=uint32_t
+          ]
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\include\types.h(271,1): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=uint32_t
+          ]
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\include\types.h(273,1): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=uint32_t
+          ]
+  mesh.cpp
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\include\types.h(109,22): warning C4018: '<=': signed/unsigned mismatch
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\include\types.h(235,22): warning C4018: '<': signed/unsigned mismatch
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\include\types.h(249,1): warning C4267: 'initializing': conversion from 'size_t' to 'uint32_t', possible loss of data
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\include\types.h(251,1): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=uint32_t
+          ]
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\include\types.h(256,1): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=uint32_t
+          ]
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\include\types.h(257,1): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=uint32_t
+          ]
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\include\types.h(264,1): warning C4267: 'initializing': conversion from 'size_t' to 'uint32_t', possible loss of data
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\include\types.h(266,1): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=uint32_t
+          ]
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\include\types.h(271,1): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=uint32_t
+          ]
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\include\types.h(273,1): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=uint32_t
+          ]
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\src\mesh.cpp(171,35): warning C4267: '=': conversion from 'size_t' to 'uint32_t', possible loss of data
+  Plane.cpp
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\include\types.h(109,22): warning C4018: '<=': signed/unsigned mismatch
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\include\types.h(235,22): warning C4018: '<': signed/unsigned mismatch
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\include\types.h(249,1): warning C4267: 'initializing': conversion from 'size_t' to 'uint32_t', possible loss of data
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\include\types.h(251,1): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=uint32_t
+          ]
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\include\types.h(256,1): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=uint32_t
+          ]
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\include\types.h(257,1): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=uint32_t
+          ]
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\include\types.h(264,1): warning C4267: 'initializing': conversion from 'size_t' to 'uint32_t', possible loss of data
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\include\types.h(266,1): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=uint32_t
+          ]
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\include\types.h(271,1): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=uint32_t
+          ]
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\include\types.h(273,1): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=uint32_t
+          ]
+  pointLight.cpp
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\include\types.h(109,22): warning C4018: '<=': signed/unsigned mismatch
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\include\types.h(235,22): warning C4018: '<': signed/unsigned mismatch
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\include\types.h(249,1): warning C4267: 'initializing': conversion from 'size_t' to 'uint32_t', possible loss of data
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\include\types.h(251,1): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=uint32_t
+          ]
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\include\types.h(256,1): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=uint32_t
+          ]
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\include\types.h(257,1): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=uint32_t
+          ]
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\include\types.h(264,1): warning C4267: 'initializing': conversion from 'size_t' to 'uint32_t', possible loss of data
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\include\types.h(266,1): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=uint32_t
+          ]
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\include\types.h(271,1): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=uint32_t
+          ]
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\include\types.h(273,1): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=uint32_t
+          ]
+  Pyramid.cpp
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\include\types.h(109,22): warning C4018: '<=': signed/unsigned mismatch
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\include\types.h(235,22): warning C4018: '<': signed/unsigned mismatch
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\include\types.h(249,1): warning C4267: 'initializing': conversion from 'size_t' to 'uint32_t', possible loss of data
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\include\types.h(251,1): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=uint32_t
+          ]
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\include\types.h(256,1): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=uint32_t
+          ]
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\include\types.h(257,1): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=uint32_t
+          ]
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\include\types.h(264,1): warning C4267: 'initializing': conversion from 'size_t' to 'uint32_t', possible loss of data
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\include\types.h(266,1): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=uint32_t
+          ]
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\include\types.h(271,1): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=uint32_t
+          ]
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\include\types.h(273,1): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=uint32_t
+          ]
+  shader.cpp
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\src\shader.cpp(30,36): warning C4101: 'e': unreferenced local variable
+  SmallBox.cpp
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\include\types.h(109,22): warning C4018: '<=': signed/unsigned mismatch
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\include\types.h(235,22): warning C4018: '<': signed/unsigned mismatch
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\include\types.h(249,1): warning C4267: 'initializing': conversion from 'size_t' to 'uint32_t', possible loss of data
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\include\types.h(251,1): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=uint32_t
+          ]
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\include\types.h(256,1): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=uint32_t
+          ]
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\include\types.h(257,1): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=uint32_t
+          ]
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\include\types.h(264,1): warning C4267: 'initializing': conversion from 'size_t' to 'uint32_t', possible loss of data
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\include\types.h(266,1): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=uint32_t
+          ]
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\include\types.h(271,1): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=uint32_t
+          ]
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\include\types.h(273,1): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=uint32_t
+          ]
+  Sphere.cpp
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\include\types.h(109,22): warning C4018: '<=': signed/unsigned mismatch
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\include\types.h(235,22): warning C4018: '<': signed/unsigned mismatch
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\include\types.h(249,1): warning C4267: 'initializing': conversion from 'size_t' to 'uint32_t', possible loss of data
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\include\types.h(251,1): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=uint32_t
+          ]
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\include\types.h(256,1): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=uint32_t
+          ]
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\include\types.h(257,1): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=uint32_t
+          ]
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\include\types.h(264,1): warning C4267: 'initializing': conversion from 'size_t' to 'uint32_t', possible loss of data
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\include\types.h(266,1): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=uint32_t
+          ]
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\include\types.h(271,1): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=uint32_t
+          ]
+F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\Week7Assignment\include\types.h(273,1): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=uint32_t
+          ]
+  stb.cpp
+  texture.cpp
+  Generating Code...
+  LINK : F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\x64\Debug\Week7Final.exe not found or not built by the last incremental link; performing full link
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Week7Assignment.vcxproj -> F:\MoveTemp\Repo\CS330_ComputationGraphics\Assignment7FinalProject\Week7AssignmentFinal\x64\Debug\Week7Final.exe
